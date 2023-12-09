@@ -1,11 +1,6 @@
-[(/images/cover.jpg)](https://www.linkedin.com/in/rexaul-rana)
+[![Rezaul Islam Rana](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/cover.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/rexaul-rana)
 
-### Hi there 👋
-
-<!--
-**rexaulrana/rexaulrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Current Overview
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

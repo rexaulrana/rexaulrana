@@ -24,14 +24,14 @@ or [**Linkedin**](https://www.linkedin.com/in/rexaul-rana) .
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/HTML.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/css.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/Bootsrap.png)
-![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/tailwind.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/JavaScript.png)
+![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/tailwind.png) <br>
 ![](<https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/react%20(1).png>)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/firebase.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/node.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/express.png)
 ![](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/mongo.png)
 
-# 📈 current stats
+# 📈 Current stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rexaulrana&theme=javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

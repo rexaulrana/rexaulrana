@@ -14,6 +14,4 @@
 
 📫 How to reach me: reach out via email at **rexaul.rana@gmail.com**
 
-😄 Pronouns: He/Him
-
 # 📫 Reach me out

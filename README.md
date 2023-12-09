@@ -12,6 +12,11 @@
 
 💬 Ask me about: Anything related to MERN stack development, JavaScript, or web development in general. I'm always up for a tech discussion!
 
-📫 How to reach me: reach out via email at **rexaul.rana@gmail.com**
+📫 How to reach me: reach out via email **<rexaul.rana@gmail.com>**
+or [**Linkedin**](https://www.linkedin.com/in/rexaul-rana) .
 
-# 📫 Reach me out
+<!-- # 📫 Reach me out
+
+[![Linkdin Profile](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/linkdin.png)](https://www.linkedin.com/in/rexaul-rana) -->
+
+# Technologies that i know

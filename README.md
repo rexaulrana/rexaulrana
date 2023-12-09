@@ -1,6 +1,6 @@
 [![Rezaul Islam Rana](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/cover.jpg "Rana")](https://www.linkedin.com/in/rexaul-rana)
 
-# 👀 Current Overview
+# 👀 About me
 
 🔭 I’m currently working on: MERN stack project.
 

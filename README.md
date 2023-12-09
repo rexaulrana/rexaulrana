@@ -1,12 +1,19 @@
-[![Rezaul Islam Rana](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/cover.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/rexaul-rana)
+[![Rezaul Islam Rana](https://raw.githubusercontent.com/rexaulrana/rexaulrana/main/images/cover.jpg "Rana")](https://www.linkedin.com/in/rexaul-rana)
 
-Current Overview
+# Current Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on: MERN stack project.
+
+🌱 I’m currently learning: Advanced React as well as diving deeper into backend development with Node.js.
+
+👯 I’m looking to collaborate on: Open source projects related to web development.
+
+🤔 I’m looking for help with: Optimizing database queries in MongoDB and exploring best practices for deploying and scaling MERN stack applications.
+
+💬 Ask me about: Anything related to MERN stack development, JavaScript, or web development in general. I'm always up for a tech discussion!
+
+📫 How to reach me: reach out via email at **rexaul.rana@gmail.com**
+
+😄 Pronouns: He/Him
+
+# 📫 Reach me out
